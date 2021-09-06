@@ -17,6 +17,7 @@ public class MySecondPro {
     public static void main(String[] args) {
         System.out.print("Hello World2");
         System.out.print("First Update2");
+        System.out.print("Second Change");
         // TODO code application logic here
     }
     
