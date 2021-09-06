@@ -15,7 +15,8 @@ public class MySecondPro {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("hello");
+        System.out.print("Hello World2");
+        System.out.print("First Update");
         // TODO code application logic here
     }
     
