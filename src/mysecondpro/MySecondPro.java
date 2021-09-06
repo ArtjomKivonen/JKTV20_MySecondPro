@@ -16,7 +16,7 @@ public class MySecondPro {
      */
     public static void main(String[] args) {
         System.out.print("Hello World2");
-        System.out.print("First Update");
+        System.out.print("First Update2");
         // TODO code application logic here
     }
     
